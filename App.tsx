@@ -19,12 +19,6 @@ const App = () => {
           options={{headerShown: false}}
         />
       </Stack.Navigator>
-      {/* <SafeAreaView>
-      <StatusBar barStyle="dark-content" />
-      <ScrollView contentInsetAdjustmentBehavior="automatic">
-        <LoginScreen />
-      </ScrollView>
-    </SafeAreaView> */}
     </NavigationContainer>
   );
 };
